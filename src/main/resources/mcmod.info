@@ -1,0 +1,16 @@
+[
+{
+  "modid": "katsu",
+  "name": "Katsu Mod",
+  "description": "Donkatsu and Gyukatsu",
+  "version": "1.12.2-R1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Olli1107"],
+  "credits": "Polligaming0512 - Helping Ideas",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

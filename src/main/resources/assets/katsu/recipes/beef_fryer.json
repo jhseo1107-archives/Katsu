@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "FFF",
+        "FBF",
+        "FFF"
+    ],
+   
+    "key":
+    {
+        "F":
+        {
+            "item": "katsu:flour"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:beef"
+        }
+    },
+   
+    "result":
+    {
+        "item": "katsu:beef_fryer",
+        "count": 1
+    }
+}

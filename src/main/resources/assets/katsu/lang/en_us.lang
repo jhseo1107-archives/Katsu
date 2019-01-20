@@ -1,0 +1,6 @@
+item.flour.name=Flour
+item.beef_fryer.name=Fryer on Beef
+item.porkchop_fryer.name=Fryer on Porkchop
+item.gyukatsu.name=Gyukatsu
+item.donkatsu.name=Donkatsu
+itemGroup.katsu=Katsu
